@@ -1,3 +1,4 @@
+/* eslint-disable react/no-unescaped-entities */
 import React from 'react'
 import { Timeline } from './ui/Timline'
 import { VscDebugBreakpointFunction } from "react-icons/vsc";

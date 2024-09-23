@@ -28,6 +28,7 @@ const config = {
     extend: {
       colors: {
         aksen: "#39FF14",
+        abuabu:"#232528",
         black: {
           DEFAULT: "#000",
           100: "#000319",
