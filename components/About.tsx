@@ -37,7 +37,7 @@ const About = () => {
 					<div>
 							<div className='flex items-center'>
 								<VscDebugBreakpointFunction className='text-aksen text-5xl' />
-								<p className='text-[14px] md:text-[16px] text-justify pl-5 pt-5'><span className='font-bold'>MOTIX</span>: Worked collaboratively with fellow students in Android development and machine learning at Bangkit Academy to create a hoax detector app as our final project. My responsibilities included developing the API and managing Google Cloud services, focusing on integrating cloud resources effectively to enhance the app's functionality and performance.</p>
+								<p className='text-[14px] md:text-[16px] text-justify pl-5 pt-5'><span className='font-bold'>MOTIX</span>: Worked collaboratively with fellow students in Android development and machine learning at Bangkit Academy to create a hoax detector app as our final project. My responsibilities included developing the API and managing Google Cloud services, focusing on integrating cloud resources effectively to enhance the app&apos;s functionality and performance.</p>
 							</div>
 					</div>
 				</div>
@@ -48,7 +48,7 @@ const About = () => {
     <div className='py-32 bg-black'>
         <div className='text-left mx-3 md:text-center lg:mx-72'>
             <h1 className='text-white text-[24px] lg:text-[36px] font-extrabold mb-5'>About Me</h1>
-            <p className='text-white text-[16px] lg:text-[24px] font-light'>Hi, Im Ghaza Gymnastiar a Front End web developer based in Indonesia. Currently I'm in a final-year Informatics Engineering student with a strong passion for web development. </p>
+            <p className='text-white text-[16px] lg:text-[24px] font-light'>Hi, Im Ghaza Gymnastiar a Front End web developer based in Indonesia. Currently I&apos;m in a final-year Informatics Engineering student with a strong passion for web development. </p>
         </div>
 				<Timeline data={data}/>
     </div>

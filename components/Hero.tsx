@@ -21,7 +21,7 @@ const Hero = () => {
             <p className="text-[13px] lg:text-[24px] font-light text-white" >
               Aspiring Front-End Developer | Passionate Programmer | Tech Enthusiast
             </p>
-            <TextGenerateEffect  words="Hi, i'm Ghaza Gymnastiar." className='text-red-800' />
+            <TextGenerateEffect  words="Hi, i&apos;m Ghaza Gymnastiar." className='text-red-800' />
             {/* <h1 className='text-[96px] text-white font-bold '>HI, i'm <span className='text-aksen'>Ghaza Gymnastiar</span>.</h1> */}
             <p className='text-[13px] lg:text-[24px] font-light text-white mb-5'> I build web experiences that drive results.</p>
             <a 
