@@ -3,8 +3,8 @@ import { BentoGrid, BentoGridItem } from "./ui/BentoGrid";
 
 const Project = () => {
   return (
-    <div className='text-center py-32 bg-black'>
-      <h1 className='text-white text-[36px] font-extrabold mb-5'>Project</h1>
+    <div className='text-left mx-3 md:text-center py-32 bg-black'>
+      <h1 className='text-white text-[24px] lg:text-[36px] font-extrabold mb-5'>Project</h1>
       <BentoGrid className="max-w-4xl mx-auto md:auto-rows-[20rem]">
       {items.map((item, i) => (
         <BentoGridItem
